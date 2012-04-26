@@ -1,0 +1,5 @@
+Build:
+	javac -d class BlobDemo.java
+
+Run:
+	java -cp class BlobDemo img2.png
